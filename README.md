@@ -16,7 +16,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/sahilgaur22">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Sahil+Gaur;AI+Engineer+%26+Backend+Developer;Agentic+Workflows+%26+RAG+Pipelines;01100001 01101001" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Sahil+Gaur;AI+Engineer+%26+Software+Developer;Agentic+Workflows+%26+RAG+Pipelines;01100001+01101001" alt="typing banner">
 </a>
 
 <br>
